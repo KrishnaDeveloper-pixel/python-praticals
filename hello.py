@@ -1,0 +1,1 @@
+print("Hello! I am ready for AI and Data Science!")
